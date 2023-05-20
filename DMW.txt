@@ -1,0 +1,23 @@
+select labour dataset 
+choose
+replace missing values
+select any one attribute
+
+weather nominal dataset
+associate-->select apriori start
+
+assign 3
+weather nominal 
+classify
+choose bayes--> naive bayes---> perct slipt
+
+assign5
+cpu dataset 
+classify-- choose __> function --- linear reggrearion
+
+assign 6
+iris.af
+cluster
+xhoos-- simple k means satrt rightclick
+
+
